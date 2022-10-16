@@ -10,8 +10,10 @@ Follow the instucrions:
     <li>Install npm on your machine</li>
     <li>Download this code on your machine</li>
     <li>Open terminal in the folder, where you have downloaded this code</li>
+    <li>Run commmand <code>mkdir storage/framework/sessions storage/framework/views storage/framework/cache -p</code></li>
     <li>Run command <code lang="sh">composer install </code></li>
     <li>Run command <code lang="sh">npm i </code></li>
+    <li>Run command <code land="sh">npm run prod</code></li>
     <li>Run command <code lang="sh">php artisan serve </code></li>
     <li>Open in you browser <a href="http://localhost:8000/">http://localhost:8000/</a></li>
 </ul>
