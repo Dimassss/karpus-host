@@ -1,0 +1,14 @@
+.vscode/*
+node_modules/*
+public/css/*
+public/fonts/*
+public/images/*
+public/js/*
+public/media/*
+run/*
+storage/*
+vendor/*
+
+composer.lock
+package-lock.json
+
